@@ -1,0 +1,36 @@
+{
+  "customer": [
+    {
+      "id": 10,
+      "name": "Rohit",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla...",
+      "status": "Open",
+      "rate": 50,
+      "balance": 74
+    },
+    {
+      "id": 11,
+      "name": "Bumrah",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla...",
+      "status": "Open",
+      "rate": 5,
+      "balance": 89751315
+    },
+    {
+      "id": 12,
+      "name": "Neha",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla...",
+      "status": "Open",
+      "rate": 2,
+      "balance": 60
+    },
+    {
+      "id": 13,
+      "name": "ashish",
+      "description": "tets",
+      "status": "Open",
+      "rate": -1000,
+      "balance": -1000
+    }
+  ]
+}
